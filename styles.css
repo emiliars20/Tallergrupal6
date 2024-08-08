@@ -1,15 +1,11 @@
 body {
-    background-color: rgb(255, 255, 165);
-    
+    background-color: pink;
 }
 
 .image{
-    border: 5px solid rgb(1, 1, 58);
+    border: 5px solid green;
     border-radius: 10px;
     height: 400px;
-}
-
-h1{ color:red;
 }
 
 .link-button {
@@ -20,9 +16,4 @@ h1{ color:red;
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
-}
-
-h2,p{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
 }
