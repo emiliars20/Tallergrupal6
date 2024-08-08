@@ -8,6 +8,9 @@ body {
     height: 400px;
 }
 
+h1{ color:red;
+}
+
 .link-button {
     text-decoration: none;
     color: black;
